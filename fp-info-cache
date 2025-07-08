@@ -1,4 +1,4 @@
-24649198523019889
+24650950512708546
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53913,6 +53913,13 @@ muRata MEJ1S DCDC-Converter
 0
 4
 4
+Converter_DCDC
+my_buck_boost
+XP_POWER  IA48xxD, DIP, (https://www.xppower.com/pdfs/SF_IA.pdf), generated with kicad-footprint-generator
+XP_POWER  IA48xxD DIP DCDC-Converter
+0
+8
+8
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
