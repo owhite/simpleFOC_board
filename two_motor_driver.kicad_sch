@@ -4431,10 +4431,6 @@
 		(uuid "fb36dfde-ef6a-469d-97a3-ba2a34436c7d")
 	)
 	(no_connect
-		(at 209.55 55.88)
-		(uuid "46fa6c0b-2405-4345-92a8-1671b741e353")
-	)
-	(no_connect
 		(at 224.79 86.36)
 		(uuid "53271d72-9ca6-4dd2-83cf-d49b48613305")
 	)
@@ -4481,6 +4477,10 @@
 	(no_connect
 		(at 158.75 123.19)
 		(uuid "c7ad3606-23db-42df-b81b-d3590d80763a")
+	)
+	(no_connect
+		(at 224.79 60.96)
+		(uuid "d4a7bf15-c299-45fa-b6ff-92ff595b4b4f")
 	)
 	(no_connect
 		(at 194.31 86.36)
@@ -4748,6 +4748,16 @@
 	)
 	(wire
 		(pts
+			(xy 209.55 53.34) (xy 209.55 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a5534c7-16e7-4163-b00f-be6932fe66c2")
+	)
+	(wire
+		(pts
 			(xy 21.59 57.15) (xy 26.035 57.15)
 		)
 		(stroke
@@ -4895,6 +4905,16 @@
 			(type default)
 		)
 		(uuid "5095ad11-979e-413b-8921-188dc6fb1d31")
+	)
+	(wire
+		(pts
+			(xy 210.82 53.34) (xy 209.55 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "518b45f7-e70b-480d-a2aa-3ed88c8dee18")
 	)
 	(wire
 		(pts
@@ -5145,16 +5165,6 @@
 			(type default)
 		)
 		(uuid "8d936d61-2a9c-4c38-b574-cd5354e61bde")
-	)
-	(wire
-		(pts
-			(xy 238.76 60.96) (xy 224.79 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8fb5b990-2ee1-4c99-b63d-8198fcc70aee")
 	)
 	(wire
 		(pts
@@ -6026,16 +6036,6 @@
 		)
 		(uuid "5571d3b3-00b5-4f73-8a6b-72ae3fa9dc78")
 	)
-	(label "+3.3V"
-		(at 238.76 60.96 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "5b1de6f7-5e85-4280-8791-e48336324d2f")
-	)
 	(label "RC_Throttle"
 		(at 88.9 125.73 0)
 		(effects
@@ -6628,6 +6628,28 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "+5V"
+		(shape input)
+		(at 210.82 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5fcd4aeb-fdc2-4321-b198-96a01abca921")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 217.0215 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
