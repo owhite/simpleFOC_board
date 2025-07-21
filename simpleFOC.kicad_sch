@@ -1552,7 +1552,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 154.94) (xy 46.99 154.94)
+			(xy 121.92 149.86) (xy 135.89 149.86)
 		)
 		(stroke
 			(width 0)
@@ -1572,7 +1572,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 167.64) (xy 46.99 167.64)
+			(xy 127 162.56) (xy 135.89 162.56)
 		)
 		(stroke
 			(width 0)
@@ -2022,7 +2022,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 152.4) (xy 46.99 152.4)
+			(xy 121.92 147.32) (xy 135.89 147.32)
 		)
 		(stroke
 			(width 0)
@@ -2102,7 +2102,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 170.18) (xy 46.99 170.18)
+			(xy 121.92 165.1) (xy 135.89 165.1)
 		)
 		(stroke
 			(width 0)
@@ -2262,7 +2262,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 157.48) (xy 46.99 157.48)
+			(xy 121.92 152.4) (xy 135.89 152.4)
 		)
 		(stroke
 			(width 0)
@@ -2322,7 +2322,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 149.86) (xy 46.99 149.86)
+			(xy 127 144.78) (xy 135.89 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2352,7 +2352,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 175.26) (xy 46.99 175.26)
+			(xy 121.92 170.18) (xy 135.89 170.18)
 		)
 		(stroke
 			(width 0)
@@ -2502,7 +2502,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 172.72) (xy 46.99 172.72)
+			(xy 121.92 167.64) (xy 135.89 167.64)
 		)
 		(stroke
 			(width 0)
@@ -2581,7 +2581,7 @@
 		(uuid "3e977bec-2782-4460-9df6-306384f36cd4")
 	)
 	(label "FOC1_PWM_B"
-		(at 33.02 154.94 0)
+		(at 121.92 149.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2591,7 +2591,7 @@
 		(uuid "48e2da92-a000-4eb0-9678-859c9aacacab")
 	)
 	(label "FOC2_EN"
-		(at 38.1 167.64 0)
+		(at 127 162.56 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2621,7 +2621,7 @@
 		(uuid "5bba27bf-bd00-496a-84c0-a9c8b406e2ec")
 	)
 	(label "FOC2_PWM_C"
-		(at 33.02 175.26 0)
+		(at 121.92 170.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2641,7 +2641,7 @@
 		(uuid "643310a0-8765-4000-a32d-28bca3f8b284")
 	)
 	(label "FOC2_PWM_A"
-		(at 33.02 170.18 0)
+		(at 121.92 165.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2701,7 +2701,7 @@
 		(uuid "8f4bd4bf-e843-4dd4-a791-1d07ef8de2c5")
 	)
 	(label "FOC1_PWM_C"
-		(at 33.02 157.48 0)
+		(at 121.92 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2721,7 +2721,7 @@
 		(uuid "a0192475-d80e-4c6b-9e59-553a8b3bc9eb")
 	)
 	(label "FOC2_PWM_B"
-		(at 33.02 172.72 0)
+		(at 121.92 167.64 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2771,7 +2771,7 @@
 		(uuid "d9f4e6fc-9797-41de-8c70-64f32f1662ee")
 	)
 	(label "FOC1_PWM_A"
-		(at 33.02 152.4 0)
+		(at 121.92 147.32 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2781,7 +2781,7 @@
 		(uuid "e13a97bf-c111-4749-b860-7a66eaa60272")
 	)
 	(label "FOC1_EN"
-		(at 38.1 149.86 0)
+		(at 127 144.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2880,7 +2880,7 @@
 	)
 	(global_label "FOC1_PWM_A"
 		(shape input)
-		(at 46.99 152.4 0)
+		(at 135.89 147.32 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2890,7 +2890,7 @@
 		)
 		(uuid "55745d3e-1c25-4e47-9bc0-fb333745e0a9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.4162 152.4 0)
+			(at 150.3162 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2924,7 +2924,7 @@
 	)
 	(global_label "FOC1_PWM_B"
 		(shape input)
-		(at 46.99 154.94 0)
+		(at 135.89 149.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2934,7 +2934,7 @@
 		)
 		(uuid "8180b68f-3211-4c33-984c-82483574ac22")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.5976 154.94 0)
+			(at 150.4976 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3012,7 +3012,7 @@
 	)
 	(global_label "FOC2_PWM_A"
 		(shape input)
-		(at 46.99 170.18 0)
+		(at 135.89 165.1 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3022,7 +3022,7 @@
 		)
 		(uuid "ac9b1618-f601-47ab-ac2e-3ee5e164251e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.4162 170.18 0)
+			(at 150.3162 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3034,7 +3034,7 @@
 	)
 	(global_label "FOC1_EN"
 		(shape input)
-		(at 46.99 149.86 0)
+		(at 135.89 144.78 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3044,7 +3044,7 @@
 		)
 		(uuid "c9ce9359-3c61-45df-9541-9d12de802467")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 57.6667 149.86 0)
+			(at 146.5667 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3056,7 +3056,7 @@
 	)
 	(global_label "FOC2_EN"
 		(shape input)
-		(at 46.99 167.64 0)
+		(at 135.89 162.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3066,7 +3066,7 @@
 		)
 		(uuid "cd105dca-d93d-45be-80dc-ee64c10f16b7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 57.6667 167.64 0)
+			(at 146.5667 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3078,7 +3078,7 @@
 	)
 	(global_label "FOC2_PWM_B"
 		(shape input)
-		(at 46.99 172.72 0)
+		(at 135.89 167.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3088,7 +3088,7 @@
 		)
 		(uuid "d86bf1d9-1a2b-4598-bc08-778728479083")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.5976 172.72 0)
+			(at 150.4976 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3100,7 +3100,7 @@
 	)
 	(global_label "FOC1_PWM_C"
 		(shape input)
-		(at 46.99 157.48 0)
+		(at 135.89 152.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3110,7 +3110,7 @@
 		)
 		(uuid "e427991b-6e46-4fe7-8c64-fcd07d374b8d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.5976 157.48 0)
+			(at 150.4976 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3122,7 +3122,7 @@
 	)
 	(global_label "FOC2_PWM_C"
 		(shape input)
-		(at 46.99 175.26 0)
+		(at 135.89 170.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3132,7 +3132,7 @@
 		)
 		(uuid "e9312ee0-1811-4367-8553-fba60fa9890a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.5976 175.26 0)
+			(at 150.4976 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3239,14 +3239,13 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "069851d2-9f11-41c7-a89c-b670e6dbca88")
-		(property "Reference" "C5"
-			(at 121.285 127 0)
+		(property "Reference" "470nF_1"
+			(at 125.73 122.428 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Value" "470nF"
@@ -3256,6 +3255,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
@@ -3312,7 +3312,7 @@
 		(instances
 			(project "two_motor_driver"
 				(path "/db439bb6-f05c-42b6-bea7-1f689aebc958/d9d208ac-9d68-4acb-92b0-b50eb2d72a1b"
-					(reference "C5")
+					(reference "470nF_1")
 					(unit 1)
 				)
 			)
@@ -4926,14 +4926,13 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "efaeac57-d612-422e-965a-6a98df94a342")
-		(property "Reference" "C9"
-			(at 203.835 127 0)
+		(property "Reference" "470nF_2"
+			(at 208.026 122.174 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Value" "470nF"
@@ -4943,6 +4942,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
@@ -4999,7 +4999,7 @@
 		(instances
 			(project "two_motor_driver"
 				(path "/db439bb6-f05c-42b6-bea7-1f689aebc958/d9d208ac-9d68-4acb-92b0-b50eb2d72a1b"
-					(reference "C9")
+					(reference "470nF_2")
 					(unit 1)
 				)
 			)
