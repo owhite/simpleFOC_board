@@ -5,38 +5,6 @@
 	(uuid "db439bb6-f05c-42b6-bea7-1f689aebc958")
 	(paper "User" 254 177.8)
 	(lib_symbols)
-	(wire
-		(pts
-			(xy 125.73 57.15) (xy 139.7 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "797a261f-e4d0-4a90-be67-a7aa2330dd3a")
-	)
-	(hierarchical_label "FOC1_EN"
-		(shape input)
-		(at 125.73 57.15 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a188fd6b-99f6-4609-abcf-d16d63ad9b5b")
-	)
-	(hierarchical_label "FOC1_EN"
-		(shape input)
-		(at 139.7 57.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d52f23ef-7f02-4ed3-8a6b-ac2b2781a1aa")
-	)
 	(sheet
 		(at 100.965 52.07)
 		(size 24.765 41.275)
